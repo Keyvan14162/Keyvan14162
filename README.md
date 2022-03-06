@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### My Social Media Accounts
 
 
-[<img  width="22" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png align="left" />][instagran]
+[<img  width="22" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png align="left" />][https://www.instagram.com/ismail_kyvsn/]
 [<img  width="22" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F402%2F997%2Fpng-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Ftr%2Fsearch%3Fq%3Dlinkedin&tbnid=Jj2L3fd7kCzLtM&vet=12ahUKEwiq4ejxzvfzAhW_8LsIHXZRBrQQMygCegUIARCyAQ..i&docid=gkCkZ_5qm91CkM&w=920&h=920&q=linkedin%20logo&ved=2ahUKEwiq4ejxzvfzAhW_8LsIHXZRBrQQMygCegUIARCyAQ" align="left" />][linkedin]
 
 
