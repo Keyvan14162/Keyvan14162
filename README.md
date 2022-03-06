@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 [<img  width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" align="left" />][instagram]
-[<img  width="22" src="https://w7.pngwing.com/pngs/276/472/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png" align="left" />][linkedin]
+[<img  width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" />][linkedin]
 
 
 <br />
