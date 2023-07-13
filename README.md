@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hello there, I'm İsmail. :blush:
 
-## Computer Engineer Student
+## Computer Engineer 
 
 <font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
 <font color="pink">- 🌱 I’m currently learning Flutter </font>
